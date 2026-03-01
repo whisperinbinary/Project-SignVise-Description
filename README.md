@@ -1,20 +1,53 @@
-# TEAM PRAGYAAN
+# SignVise
 
-# SignVise- Integrated ML Framework for Gesture-Driven Text, Control & Safety and Gamified Learning
+## An Integrated ML based Platform for Gesture‑Driven Text, Control & Safety with Gamified Learning
 
-# PROBLEM STATEMENT- 
+## 🚨 PROBLEM STATEMENT
 > Emergency situations often prevent manual device interaction
-> Existing systems lack automated gesture-based detection
-> Abscence of real time location and visual context delays response
-> Need for a low latency, hands free AI emergency alert mechanism
 
-# DESCRIPTION & SOLUTION-
-> Developed an ML based HAND LANDMARK RECOGNITION in real time utilizing MEDIAPIPE 
-> Implements OPENCV for video frame processing and gesture duration tracking
-> Developed an ML based EMERGENCY ALERT SYSTEM using computer vision techniques
-> Triggers emergency response upon sustained detection of predefined gestures
-> Integrates TWILIO API for automated SMS delivery thorugh real time GEOLOCATION tracking in distress situations
-> Developed an GESTURE BASED CURSOR MOVEMENT module for differently abled & bed ridden people
-> Designed GAMIFIED LEARNING EXPERIENCE for Gesture Recognition
-> Built using PYTHON ensuring modularity & scalability
+> Existing systems lack automated gesture‑based detection
 
+> Absence of real‑time location and visual context delays response
+
+> Need for a low‑latency, hands‑free AI emergency alert mechanism
+
+## 💡 DESCRIPTION & SOLUTION
+
+> Real‑time Hand Landmark Recognition using Mediapipe
+
+> Video frame processing & gesture duration tracking with OpenCV
+
+> Emergency Alert System leveraging computer vision for sustained gesture detection
+
+> Automated SMS delivery via Twilio API, integrated with real‑time geolocation tracking
+
+> Gesture‑based cursor movement module designed for differently‑abled and bed‑ridden individuals
+
+> Gamified learning experience for gesture recognition to enhance accessibility and engagement
+
+> Built with Python, ensuring modularity, scalability, and cross‑platform adaptability
+
+## ⚙️ TECH STACK
+
+> Python
+
+> Mediapipe
+
+> OpenCV
+
+> Twilio API
+
+> Geolocation Services
+
+## 🌍 IMPACT
+
+> Enables hands‑free emergency response in critical situations
+
+> Provides assistive technology for differently‑abled users
+
+> Enhances learning and accessibility through gamified gesture recognition
+
+## 📌 NOTES
+
+> This repository showcases the concept, architecture, and workflow of the project.
+> The complete source code is maintained privately to protect originality and prevent plagiarism. Recruiters or collaborators may request access to review the implementation.
