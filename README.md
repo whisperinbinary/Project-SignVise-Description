@@ -51,9 +51,10 @@
 > ### Download Demo Video here. 
 
 https://github.com/whisperinbinary/SignVise/raw/refs/heads/master/demo/Project%20SignVise%20Demo%20Video.mp4
-
-
+---
 ## 📌 NOTES
 
-> This repository showcases the concept, architecture, and workflow of the project.
-> The complete source code is maintained privately to protect originality and prevent plagiarism. Recruiters or collaborators may request access to review the implementation.
+> ### This repository showcases the concept, architecture, and workflow of the project.
+> ### The complete source code is maintained privately in a different repository to protect originality and prevent plagiarism.
+> ### RECRUITERS or COLLABORATORS may request access to review the implementation.
+---
