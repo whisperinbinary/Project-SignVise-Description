@@ -61,3 +61,12 @@ https://github.com/whisperinbinary/SignVise/raw/refs/heads/master/demo/Project%2
 > ### The complete source code is maintained privately in a different repository to protect originality and prevent plagiarism.
 > ### RECRUITERS or COLLABORATORS may request access to review the implementation.
 ---
+## 👥 Contributors
+- ### Atal Sharma (Project Lead alongside Backend Development in Chatbot & SOS Module)
+  Linkedin- https://www.linkedin.com/in/atal-sharma-2659aa370/
+- ### Harshit Sharma (Backend Development in Text to Speech Module)
+  Linkedin- https://www.linkedin.com/in/harshit-sharma-4a167237b/
+- ### Abhishek Sharma (Backend Development in Virtual Mouse Module)
+  Linkedin- https://www.linkedin.com/in/abhishek-sharma-765322370/
+- ### Pratyush Daspattnaik (Frontend Development)
+  Linkedin- https://www.linkedin.com/in/pratyush-daspattnaik-3b1a46366/
